@@ -55,18 +55,6 @@
     letter-spacing: 1.5px;
     background-color: #003479;
   }
-  
-  body {
-  padding: 25px;
-  background-color: white;
-  color: black;
-  font-size: 25px;
-}
-
-.dark-mode {
-  background-color: black;
-  color: white;
-}
 
   .contribute-btn img {
     width: 2.2rem;
